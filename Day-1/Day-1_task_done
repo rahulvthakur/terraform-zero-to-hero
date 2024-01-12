@@ -1,0 +1,8 @@
+AWS instacne was created using HCL
+
+#aws configure
+
+#terrform init ---> To initialise the Terraform, it checks the config files
+#terraform plan ---> Terraform shows the action to be executed
+#terraform apply ---> Terraform applies the action mentioned in the script
+#terraform destroy ---> Terraform destryos the resources created
